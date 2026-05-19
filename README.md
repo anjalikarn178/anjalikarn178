@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>A real-time rice grain classification and analysis system using computer vision and deep learning<br>A hybrid atmospheric water generator and smog mitigation system focused on environmental optimization and thermal management<br><br>👯 I’m looking to collaborate on<br><br>AI/ML and computer vision projects<br>Cybersecurity research and intelligent detection systems<br>Full-stack applications with real-world impact<br><br>🤝 I’m looking for help with<br><br>Scaling deep learning systems for real-time inference<br>Advanced deployment pipelines and edge AI optimization<br>Research publication and production-grade ML architecture<br><br>🌱 I’m currently learning<br><br>Advanced deep learning and computer vision<br>System design and scalable backend development<br>Cybersecurity, malware analysis, and AI-driven threat detection<br><br>💬 Ask me about<br><br>Python, Flask, React, and machine learning<br>Computer vision and deep learning projects<br>Malware classification, phishing detection, and cybersecurity research<br>Data structures and algorithms<br><br>⚡ Fun fact<br><br>I’ve worked on projects ranging from malware classification to rice grain analysis to atmospheric water generation. Somehow all of them involve making machines smarter while humans continue using “password123”.
+🧠 I like building systems where AI, cybersecurity, and real-world problem solving intersect. Most of my projects somehow end up involving computer vision, deep learning, or security research... which probably says something about my life choices.
+
+💻 Usually working with Python, Flask, React, ML models, and way too many debugging tabs open at 2 AM.
+
+🔍 Interested in:
+• Computer Vision & Deep Learning
+• Cybersecurity & Malware Analysis
+• Real-time AI Systems
+• Full-Stack Development
+• Research & Intelligent Automation
+
+🚀 Currently exploring how to make ML systems faster, scalable, and actually usable outside research papers.
+
+🤝 Open to collaborating on meaningful tech projects, research work, and chaotic “this might actually work” ideas.
+
+⚡ Fun fact:
+I’ve trained models to detect malware, analyze medical scans, classify rice grains, and detect phishing URLs. At this point I’m basically teaching machines to judge everything humans create.
+
 
 
 ## 🌐 Socials:
